@@ -1,0 +1,30 @@
+{
+  "bodyTransaction": {
+    "amount_in_cents": "{{amount_in_cents}}",
+    "currency": "{{currency}}",
+    "customer_email": "{{customer_email}}",
+    "reference": "{{reference}}",
+    "signature": "{{signature}}",
+    "acceptance_token": "{{acceptance_token}}",
+    "accept_personal_auth": "{{accept_personal_auth}}"
+  },
+  "bodyPaymentMethod": {
+    "NEQUI": {
+      "type": "NEQUI",
+      "phone_number": "{{phone_number}}"
+    },
+    "BANCOLOMBIA_QR": {
+      "type": "BANCOLOMBIA_QR",
+      "payment_description": "{{payment_description}}",
+      "sandbox_status": "{{sandbox_status}}"
+    },
+    "PCOL": {
+      "type": "PCOL",
+      "sandbox_status": "{{sandbox_status}}"
+    },
+    "BANCOLOMBIA_TRANSFER": {
+      "type": "BANCOLOMBIA_TRANSFER",
+      "user_type": "{{user_type}}",
+      "payment_description": "{{payment_description}}"}
+  }
+}
