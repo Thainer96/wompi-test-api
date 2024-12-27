@@ -12,16 +12,6 @@ Este proyecto te permite ejecutar las APIS disponibles, por medio de pruebas RES
 *   [Tecnologías Utilizadas](#tecnologías-utilizadas)
 *   [Requisitos Previos](#requisitos-previos)
 *   [Configuración del Proyecto](#configuración-del-proyecto)
-*   [Ejecución de las Pruebas](#ejecución-de-las-pruebas)
-    *   [Pruebas Unitarias](#pruebas-unitarias)
-    *   [Pruebas de Integración (Rest Assured)](#pruebas-de-integración-rest-assured)
-    *   [Pruebas BDD (Cucumber/JBehave)](#pruebas-bdd-cucumberjbehave)
-*   [Validaciones](#validaciones)
-*   [Context Test (Si aplica)](#context-test-si-aplica)
-*   [Ejemplos de Uso (Opcional)](#ejemplos-de-uso-opcional)
-*   [Documentación de la API (Opcional)](#documentación-de-la-api-opcional)
-*   [Contribución](#contribución)
-*   [Licencia](#licencia)
 *   [Contacto](#contacto)
 
 ## Descripción
