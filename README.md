@@ -9,6 +9,7 @@ Este proyecto te permite ejecutar las APIS disponibles, por medio de pruebas RES
 ## Tabla de Contenidos
 
 *   [Descripción](#descripción)
+*   [Casos automatizados](#casos-automatizados)
 *   [Tecnologías Utilizadas](#tecnologías-utilizadas)
 *   [Requisitos Previos](#requisitos-previos)
 *   [Configuración del Proyecto](#configuración-del-proyecto)
@@ -20,6 +21,11 @@ Este proyecto realiza el test de APIS en dos de sus metodos GET y PUT, para el m
 de transacciones y sus tipos, basado en el patron de diseño POM con la libreria REST ASSURED, bajo lenguaje de 
 programación JAVA.
 
+## casos-automatizados
+
+se realizo la automatización de los siguientes casos en lenguaje Gherkin:
+
+![img_1.png](img_1.png)
 
 ## Tecnologías Utilizadas
 
